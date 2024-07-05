@@ -7,8 +7,8 @@ This is the organizational charter for the Pilars-Protocols Github Organization 
 The mission of this organization is to:
 
 -  Develop Specifications and associated documents, NOT code or data
--  Oversee the PILARS protocols releasing at least one version which has a DOI (Digital Object Identifier) issued by the University of Queensland, and to oversee the 
--  Approve final drafts of one or more articles about PILARS which will become the recommended way of citing 
+-  Oversee the PILARS protocols releasing at least one version which has a DOI (Digital Object Identifier) issued by the University of Queensland, and to oversee the release of further revisions if the Steering Committee decides they are called for 
+-  Approve final drafts of one or more articles about PILARS which will become the recommended way of citing PILARS
 -  Approve the development of further materials related to the protocols if needed
 
 ## 2. Steering Committee
