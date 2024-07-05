@@ -54,8 +54,7 @@ In order to be eligible to be a Organization project, a project must:
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
 * Be aligned with the Mission statement above
-* Use only the following outbound licenses or agreements unless otherwise approved:
-  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
+* Use only the Creative Commons licensing
 * Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
 
 ## 9. Amendments
