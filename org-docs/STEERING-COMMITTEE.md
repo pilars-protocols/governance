@@ -13,5 +13,8 @@ Voting members may be added once approved by the Steering Committee as described
 * Peter Sefton is the founding chair of the group (this may be changed by a vote of the Steering Committee as per the [Charter](./charter.md))
 ---
 
-(C) University of Queensland and PILARS Contributors
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+(C) University of Queensland and PILARS Contributors.
+
+ Based on resources from [Github's Minimum Viable Governance](https://github.com/github/MVG/tree/main) project. 
+
+Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). 

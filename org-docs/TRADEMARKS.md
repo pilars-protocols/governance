@@ -41,3 +41,5 @@ You may use the word PILARS, but not the Organization's logos, to truthfully des
 * [Your specifications] for use with "PILARS" specifications
 
 These guidelines are based on the [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+
+Based on resources from [Github's Minimum Viable Governance](https://github.com/github/MVG/tree/main) project. 

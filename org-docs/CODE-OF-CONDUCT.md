@@ -131,3 +131,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+Based on resources from [Github's Minimum Viable Governance](https://github.com/github/MVG/tree/main) project. 
+
+Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). 
