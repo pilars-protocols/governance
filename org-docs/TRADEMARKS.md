@@ -25,7 +25,7 @@ When you redistribute an unmodified copy of our specifications, you are not chan
 
 ## Distribution of executable code that you have compiled, or modified code
 
-You may use any word "PILARS", but not any Organization logos, to truthfully describe the origin of the specifications that you are providing, that is, that the code you are distributing is a modification of our specifications. You may say, for example, that "this specifications is derived from the 'Mark' specifications."
+You may use any word "PILARS", but not any Organization logos, to truthfully describe the origin of the specifications that you are providing, that is, that the code you are distributing is a modification of our specifications. You may say, for example, that "this specifications is derived from the 'PILARS' specifications."
 
 Of course, you can place your own trademarks or logos on versions of the specifications to which you have made substantive modifications, because by modifying the specifications, you have become the origin of that exact version. In that case, you should not use our Marks.
 
