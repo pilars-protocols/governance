@@ -13,7 +13,12 @@ The mission of this organization is to:
 
 ## 2. Steering Committee
 
-**2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
+**2.1 Purpose**. The Steering Committee will be responsible for:
+
+-  Overseeing the PILARS protocols releasing at least one version which has a DOI (Digital Object Identifier) issued by the University of Queensland, and to oversee the 
+-  Approving final drafts of one or more articles about PILARS which will become the recommended way of citing the protocols
+
+
 
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
