@@ -1,6 +1,6 @@
 # Charter for the PILARS Protocols Organization
 
-This is the organizational charter for the Pilars-Protocols Github Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), and issuing a git Pull Request, Steering Committee members agree to the below.
+This is the organizational charter for the Pilars-Protocols Github Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), and issuing a git Pull Request, Steering Committee members agree to the below. The charter shall be reviewed by the steering committee annually and endorsed by way of resolution.  
 
 ## 1. Mission
 
