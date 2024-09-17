@@ -62,11 +62,11 @@ In order to be eligible to be a Organization project, a project must:
 * Agree to follow the guidance and direction of the Steering Committee.
 * Be aligned with the Mission statement above
 * Use only the Creative Commons licensing
-* Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
+* Include and adhere to the Organization's policies, including thus documents and the [code of conduct](./CODE-OF-CONDUCT.md).
 
 ## 8. Amendments
 
-Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+Amendments to this charter or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
 ---
 Based on resources from [Github's Minimum Viable Governance](https://github.com/github/MVG/tree/main) project. 
