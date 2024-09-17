@@ -43,17 +43,13 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 
 ## 5. Trademarks
 
-Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
+Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
 
-## 6. Antitrust Policy
-
-The Steering Committee is bound by the Organization's [antitrust policy](./ANTITRUST.md).
-
-## 7. No Confidentiality
+## 6. No Confidentiality
 
 Information disclosed in connection with any of the Organization's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
 
-## 8. Project Criteria
+## 7. Project Criteria
 
 In order to be eligible to be a Organization project, a project must:
 
@@ -63,7 +59,7 @@ In order to be eligible to be a Organization project, a project must:
 * Use only the Creative Commons licensing
 * Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
 
-## 9. Amendments
+## 8. Amendments
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
